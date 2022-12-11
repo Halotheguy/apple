@@ -1,0 +1,20 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+.sag{
+    display: flex;
+    margin: 80px;
+    width: auto;
+    height: auto;
+    float: left;
+}
+.small-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+  }
